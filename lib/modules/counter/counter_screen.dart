@@ -27,7 +27,8 @@ class CounterScreen extends StatelessWidget
             body: Center(
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: [
+                children: 
+                [
                   TextButton(
                     onPressed: ()
                     {
