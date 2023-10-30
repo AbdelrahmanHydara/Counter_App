@@ -1,4 +1,4 @@
-# counter_app
+# Counter_App
 
 A new Flutter Application.
 
